@@ -1,0 +1,6 @@
+models/*
+!models/deploy.prototxt
+
+data/*
+
+.ipynb_checkpoints
