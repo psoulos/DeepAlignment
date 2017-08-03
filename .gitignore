@@ -2,5 +2,7 @@ models/*
 !models/*.prototxt
 
 data/*
+!data/labels.csv
+!data/categories.txt
 
 .ipynb_checkpoints

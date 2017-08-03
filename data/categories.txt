@@ -1,0 +1,9 @@
+0 - primate
+1 - rodent
+2 - bear
+3 - dog
+4 - wild cat
+5 - grazer
+6 - megafauna
+7 - bird
+8 - herp
